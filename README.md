@@ -1,4 +1,4 @@
-Hi 👋 My name is Rishi Jain
+Hi 👋 I am Rishi
 ===========================
 
 Making fast and cool things on the web
@@ -6,7 +6,7 @@ Making fast and cool things on the web
 
 * 🌍  I'm based in Bangalore
 * 🖥️  See my portfolio at [Web Skills Portfolio](http://crio.do/portfolio/rishi-jainnew500/ )
-* 🧠  I'm learning Next JS
+
 
 ### Skills
 
