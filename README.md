@@ -4,9 +4,9 @@ Hi 👋 I am Rishi
 Making fast and cool things on the web
 --------------------------------------
 
-* 🌍  I'm based in Bangalore
-* 🖥️  See my portfolio at [Web Skills Portfolio](http://crio.do/portfolio/rishi-jainnew500/ )
-
+* 🌍  I am a Full stack developer(SDE 2). I am skilled in MERN stack.
+* I like solving challenging problems. You can read tech blogs I have published [Medium Tech Blogs](medium.com/@rishi.jain_97888)
+* 🖥️  See my full stack portfolio projects at [Web Skills Portfolio](http://crio.do/portfolio/rishi-jainnew500/ )
 
 ### Skills
 
@@ -26,9 +26,6 @@ Making fast and cool things on the web
 
 <p align="left"> <a href="https://www.github.com/rishi500" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/rishi-jain-500" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@rishi.jain_97888" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" />
 
-### Badges
-
-<a href="https://github.com/rishi500" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishi500&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
