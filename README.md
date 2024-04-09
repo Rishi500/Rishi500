@@ -1,31 +1,28 @@
-Hi 👋 I am Rishi
-===========================
+**Rishi Jain, Software Development Engineer II - Building Web Experiences since 2020**
 
-Making fast and cool things on the web
---------------------------------------
+I'm **Rishi**, a passionate software engineer crafting user-centric web applications with the MERN stack (JavaScript, MongoDB, Express.js, React.js, Node.js) and related technologies. I am working in tech since 2020 and solving challening problems at scale ever since, I'm constantly learning and pushing boundaries.
 
-* 🌍  I am a Full stack developer(SDE 2). I am skilled in MERN stack.
-* I like solving challenging problems. You can read tech blogs I have published [Medium Tech Blogs](medium.com/@rishi.jain_97888)
-* 🖥️  See my full stack portfolio projects at [Web Skills Portfolio](http://crio.do/portfolio/rishi-jainnew500/ )
+**What I Do**
 
-### Skills
+- Design, develop, and deploy scalable web apps ️
+- Write clean, maintainable, well tested and documented code
+- Collaborate effectively across teams
+- Stay up-to-date on the latest web technologies
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
-<a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-</p>
+**Projects**
 
+You can refer my Full Stack portfolio [projects](https://www.crio.do/portfolio/rishi-jainnew500/) here.
+Apart from projects, I have done several coursework like Advanced CSS, Websecurity etc.
 
-### Socials
+**Skills**
 
-<p align="left"> <a href="https://www.github.com/rishi500" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/rishi-jain-500" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@rishi.jain_97888" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" />
+**Frontend**: JavaScript (ES6+), React.js ⚛️, Redux, Redux Saga, Microfrontends, Webpack, Jest, RTL, Unit Testing, Integration Testing
+**Backend**: Node.js ⬢, Express.js, MongoDB, AWS S3, Cloudflare, CDN
 
+**Connect & Learn**
 
+- GitHub: https://www.github.com/rishi500
+- LinkedIn: https://www.linkedin.com/in/rishi-jain-500
+- Tech Blog: https://medium.com/@rishi.jain_97888
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+Looking for a passionate developer? Let's chat!
