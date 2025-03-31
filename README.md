@@ -1,28 +1,32 @@
-**Rishi Jain, Software Development Engineer II - Building Web Experiences since 2020**
+# Rishi Jain | Software Development Engineer II 🚀  
+**Building Scalable & Engaging Web Experiences**  
 
-I'm **Rishi**, a passionate software engineer crafting user-centric web applications with the MERN stack (JavaScript, MongoDB, Express.js, React.js, Node.js) and related technologies. I am working in tech since 2020 and solving challening problems at scale ever since, I'm constantly learning and pushing boundaries.
+## About Me  
+Hey, I'm Rishi! A passionate Software Engineer specializing in crafting high-performance, user-centric web applications. With experience in the **MERN stack** (React, JavaScript, Node.js, Microfrontends, Webpack, Databases) and a strong foundation in **web security, scalable architecture, and testing**, I thrive on solving complex problems at scale. Since stepping into the tech world in 2020, I've been constantly learning, experimenting, and pushing the boundaries of modern web development.  
 
-**What I Do**
+## 🔥 What I Do  
+- **🛠 Architect & Develop:** Build scalable, maintainable, and high-performance web applications.  
+- **💡 Code with Excellence:** Write clean, well-documented, and well-tested code with a focus on best practices.  
+- **🤝 Collaborate & Innovate:** Work cross-functionally with teams to bring ideas to life.  
+- **📈 Stay Ahead:** Continuously explore the latest in web technologies and industry trends.  
 
-- Design, develop, and deploy scalable web apps ️
-- Write clean, maintainable, well tested and documented code
-- Collaborate effectively across teams
-- Stay up-to-date on the latest web technologies
+## 🚀 Projects  
+Explore my **full-stack portfolio projects** on GitHub. I've also completed advanced coursework in areas like **Advanced CSS**, **Web Security**, and more. Check them out!  
 
-**Projects**
+## ⚡ Skills & Tech Stack  
+### 🎨 Frontend  
+- JavaScript (ES6+), React.js ⚛️, Redux, Redux Saga  
+- Microfrontends, Webpack, Jest, RTL  
+- Unit Testing, Integration Testing  
 
-You can refer my Full Stack portfolio [projects](https://www.crio.do/portfolio/rishi-jainnew500/) here.
-Apart from projects, I have done several coursework like Advanced CSS, Websecurity etc.
+### 🖥 Backend & Infrastructure  
+- Node.js ⬢, Express.js, MongoDB  
+- AWS S3, Cloudflare, CDN  
 
-**Skills**
+## 🌐 Let's Connect!  
+- **🐙 GitHub:** [github.com/rishi500](https://www.github.com/rishi500)  
+- **💼 LinkedIn:** [linkedin.com/in/rishi-jain-500](https://www.linkedin.com/in/rishi-jain-500)  
+- **📝 Tech Blog:** [medium.com/@rishi.jain_97888](https://medium.com/@rishi.jain_97888)  
 
-**Frontend**: JavaScript (ES6+), React.js ⚛️, Redux, Redux Saga, Microfrontends, Webpack, Jest, RTL, Unit Testing, Integration Testing
-**Backend**: Node.js ⬢, Express.js, MongoDB, AWS S3, Cloudflare, CDN
+Looking for a passionate developer? **Let's chat!** 🎯
 
-**Connect & Learn**
-
-- GitHub: https://www.github.com/rishi500
-- LinkedIn: https://www.linkedin.com/in/rishi-jain-500
-- Tech Blog: https://medium.com/@rishi.jain_97888
-
-Looking for a passionate developer? Let's chat!
